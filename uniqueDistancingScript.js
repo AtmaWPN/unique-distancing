@@ -178,5 +178,5 @@ var canvasClick = function (event) {
 addEventListener("click", canvasClick, false);
 
 setup();
-solve();
+//solve();
 main();
